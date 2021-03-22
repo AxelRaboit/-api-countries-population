@@ -43,3 +43,4 @@ searchInput.addEventListener('input', (e) => {
     searchTerm = e.target.value;
     ShowCountries();
 })
+ShowCountries();
